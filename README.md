@@ -21,3 +21,7 @@ Demonstrates building simple web application with Node.js and Socket.io.
 3. The "Clicky counter" increases by 1.
 4. Open another browser and visit the same page.
 5. The "Clicky counter" should be the same across all connected clients.
+
+## License ##
+
+[The BSD 3-Clause License](http://opensource.org/licenses/BSD-3-Clause)
