@@ -4,6 +4,8 @@
 
 Demonstrates building simple web application with Node.js and Socket.io.
 
+__This application is no longer being maintained.__
+
 ## Requirements ##
 
 * io.js 1.8.1.
